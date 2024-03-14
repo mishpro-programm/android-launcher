@@ -11,7 +11,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.geode.launcher"
+        applicationId = "com.geode.llyrikgd"
         minSdk = 23
         targetSdk = 34
         versionCode = 14
@@ -82,7 +82,7 @@ android {
             path = file("src/main/cpp/CMakeLists.txt")
         }
     }
-    namespace = "com.geode.launcher"
+    namespace = "com.geode.llyrikgd"
     ndkVersion = "26.2.11394342"
 }
 
